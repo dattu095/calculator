@@ -1,5 +1,8 @@
+from pages import index
+
+
 def main():
-    print("Hello World!")
+    index.render_page()
 
 
 if __name__ == "__main__":
