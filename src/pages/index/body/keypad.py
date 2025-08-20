@@ -6,7 +6,7 @@ from .action.button_press import press
 def render_keypad():
     if 'keypad_layout' not in st.session_state:
         st.session_state.keypad_layout = [
-            ["C", "AC", ":material/percent:", "/"],
+            ["C", "(", ")", ":material/percent:", "/"],
             ["7", "8", "9", ":material/close:"],
             ["4", "5", "6", ":material/remove:"],
             ["1", "2", "3", ":material/add:"],
