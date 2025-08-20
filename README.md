@@ -44,11 +44,11 @@ Visit 👉 **http://localhost:8501** to use the app.
 ---
 
 ## 📌 Features
-- ➕ Add new tasks with **title**, **priority**, and **due date**  
-- ✅ Mark tasks as completed or pending  
-- 🗑 Delete tasks  
-- 📅 See days remaining until the due date  
-- 🎨 Simple, clean, and responsive UI
+- 🖩 Perform basic arithmetic operations (+, −, ×, ÷, %)
+- 🧹 Clear input with C button
+- ⬅️ Backspace to remove the last entry
+- ✨ Supports parentheses ( )
+- 🎨 Minimal, responsive UI styled like a mobile calculator
 
 ---
 
